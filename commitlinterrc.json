@@ -1,0 +1,9 @@
+{
+  "types": {
+    "sprint": "start sprint",
+    "breaking": "breaking changes",
+    "patch": "patch commit",
+    "merge": "merge branches"
+  },
+  "max-len": 120
+}

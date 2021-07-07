@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "./prod",
+    "sourceMap": true,
+  },
+
+  "extends": "./tsconfig.json"
+}
